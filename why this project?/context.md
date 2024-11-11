@@ -13,6 +13,7 @@ I chose quail because I lived in a city and the laws prohibited poultry, but qua
 
 I also built them their own house (my own design, with my dad's help with power tools :) )
 ![image](https://github.com/user-attachments/assets/7634ebf3-a8e2-4f5a-a8a4-d1118f0d9b56)
+![image](https://github.com/user-attachments/assets/0a97051f-d2ef-444f-8908-fa5bdbb0b65e)
 
 *The beginning of my quail hutch*
 

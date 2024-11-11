@@ -55,3 +55,5 @@ I finally discovered there was a [community around this robot](https://spotmicro
 I excitedly and nervously ordered these servos. I currently use them in my robot. They work well and I am happy with them.
 
 ![image](https://github.com/user-attachments/assets/03b9cbb8-88c0-4598-be13-51d360e015c9)
+
+They also fit in the same files. The servo horns are slightly different, but I made adjustments.

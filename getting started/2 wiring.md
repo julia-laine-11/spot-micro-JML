@@ -1,6 +1,6 @@
 After assembly, I began working on the code using the breadboard and arduino. 
 
-I tested each legs code individually. I had the robot sitting on a flower pot, but it was too short so I hung him from the ceiling. Now that he was assembled he had way more personality so I named him Newt ([like this little fellow](https://www.gertjanverspui.com/eu-species-list/amphibians-of-europe/salamanders-newts/)):
+I tested each legs code individually. I had the robot sitting on a flower pot, but it was too short so I hung him from the ceiling. Now that he was assembled, he had waaay more personality and I named him Newt ([like this little fellow](https://www.gertjanverspui.com/eu-species-list/amphibians-of-europe/salamanders-newts/)):
 
 ![image](https://github.com/user-attachments/assets/5cea1f0d-37bc-45b0-b325-061d5e0c2eee)
 

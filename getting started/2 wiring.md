@@ -4,7 +4,7 @@ I tested each legs code individually. I had the robot sitting on a flower pot, b
 
 ![image](https://github.com/user-attachments/assets/5cea1f0d-37bc-45b0-b325-061d5e0c2eee)
 
-*everyone always asks "oh! newt like isaac newton?" and the answer is no. unfortunately I am both not clever enough to think to name him after a famous scientist, and too stubborn to change his name now.*
+*everyone always asks "oh! newt like isaac newton?" and the answer is no. unfortunately I am both not clever enough to think to name him after a famous scientist, and too stubborn to change his name now. Hence he is named after this cute little amphibian*
 
 Anyways, here he is hanging from the ceiling like a very strange disco ball:
 

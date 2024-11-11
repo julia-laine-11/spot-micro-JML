@@ -48,8 +48,7 @@ Problems with cardboard spinning wheel:
 
 ### Plexiglass circle
 
-I fixed this by making it out of plexiglass. Same shape as the cardboard, just different material
-New problems:
+I fixed this by making it out of plexiglass. Same shape as the cardboard, just different material and new/different problems:
   - It took up a lot of space and could not turn a lot of eggs
   - It also shook them a little bit more than I liked
 

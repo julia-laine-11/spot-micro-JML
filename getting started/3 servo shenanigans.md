@@ -52,4 +52,4 @@ Nothing blew up this time, but the servos were just not strong enough. They woul
 
 I finally discovered there was a [community around this robot](https://spotmicroai.readthedocs.io/en/latest/), and I joined the Slack & Discord to see what other people were using for their robots. On there, I learned about PDI-HV5523MG. I saw videos of robots that used them and I did research + talked to people who used them to see if they were right for my application. 
 
-I excitedly and nervously ordered these servos
+I excitedly and nervously ordered these servos. I currently use them in my robot. They work well and I am happy with them.

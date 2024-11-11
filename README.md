@@ -1,5 +1,6 @@
 # spot-micro-JML
-this is my progress on my robot :) I am just a student so it isn't the best but I am having a great time learning as I go
+this is my progress on my robot :) I am just a student so it isn't the best but I am having a great time learning as I go.
+
 I lost access to my old account, so I am remaking the repo on here since it was private on the last one and I can no longer see it.
 
 I started this project in 2020 or 2021. Through this project, I became interested in engineering, and now I am a junior in EE at Purdue. With this- it's definitely obvious that I am learning as I am going and there are definitely more optimal ways to do what I have done.

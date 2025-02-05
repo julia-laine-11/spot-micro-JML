@@ -28,3 +28,12 @@ As of right now, I have ROS Noetic (on a Ubiquity Robotics pi image) on my Pi. I
 I also recently got a Slamtec LiDAR, so I will implement that seperately :) so exciting!
 
 ## Current
+
+![image](https://github.com/user-attachments/assets/12cad5f5-61e5-4519-9410-7ebdb6bce502)
+
+Slamtec LiDAR
+
+![image](https://github.com/user-attachments/assets/09380102-f629-4b0a-aeb5-791bb9879167)
+
+Dog in shambles waiting for me to program it
+

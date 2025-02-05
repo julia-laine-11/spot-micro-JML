@@ -23,4 +23,8 @@ I ordered a RPi 4B, but I got a whole kit with a keyboard, mouse, and book in th
 
 ## ROS
 
+As of right now, I have ROS Noetic (on a Ubiquity Robotics pi image) on my Pi. I was going to use this to program it, but learning how to use ROS and run simulations has been slow with school and work. Since it has taken me so long, now ROS2 has become more used(?) (or I was living under a rock- probably more likely) and so I installed Jammy (for 24.04) on my school laptop so I could learn to use it without being tied to my desk at home. I also learned they're killing Gazebo (again, old news - I just discover stuff as I try to use it) so I will see if I need to upgrade to the replacement or if I do not care and will keep using it.
+
+I also recently got a Slamtec LiDAR, so I will implement that seperately :) so exciting!
+
 ## Current
